@@ -5,7 +5,7 @@ This website was created during a hackathon at BITS Pilani Hyderabad Campus by a
 - [shambhavi233](https://github.com/shambhavi233) (Shambhavi Rani)
 - [mihikamaheshwari](https://github.com/mihikamaheshwari) (Mihika Maheshwari)
 - [dedipyak20](https://github.com/dedipyak20) (Dedipya)
-- [lvsanam123](https://github.com/lvsanam123) (Manasvi)
+- [lvsanam123](https://github.com/lvsanam123) (Manasvi Prabbati)
 
   This website simplifies the process of tracking your menstrual cycle and ovulation, empowering you to take control of your reproductive health effortlessly.
 
