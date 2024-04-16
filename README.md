@@ -3,7 +3,7 @@
 This website was created during a hackathon at BITS Pilani Hyderabad Campus by a team of four programmers
 
 - [shambhavi233](https://github.com/shambhavi233) (Shambhavi Rani)
-- [mihikamaheshwari](https://github.com/mihikamaheshwari) (Mihika Maheshwari)
+- [mihika185](https://github.com/mihikamaheshwari) (Mihika Maheshwari)
 - [dedipyak20](https://github.com/dedipyak20) (Dedipya)
 - [Ivsanam123](https://github.com/Ivsanam123) (Manasvi Pabbati)
 
