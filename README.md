@@ -13,7 +13,7 @@ This website was created during a hackathon at BITS Pilani Hyderabad Campus by a
 
   To run this code:
 
-  1. Clone the repository using the following command: `git clone https://github.com/MihikaMaheshwari/Period-Tracker`
+  1. Clone the repository using the following command: `git clone https://github.com/mihika185/Period-Tracker`
 
   2. Navigate into the cloned directory on your local machine.
 
